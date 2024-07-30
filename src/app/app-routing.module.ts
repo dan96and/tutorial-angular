@@ -7,4 +7,6 @@ const routes: Routes = [];
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule]
 })
+
+//Se encarga de configurar las rutas de la aplicación
 export class AppRoutingModule { }
